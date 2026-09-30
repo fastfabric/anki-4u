@@ -1,2 +1,2 @@
 # anki-4u
-Download at (https://apps.ankiweb.net/)[AnkiWeb]
+Download at https://apps.ankiweb.net/
